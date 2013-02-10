@@ -1,11 +1,16 @@
 {
-    "name": "sonata-project/user-bundle",
+    "name": "rmzamora/user-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony SonataUserBundle",
-    "keywords": ["user", "sonata", "google authenticator"],
+    "description": "Symfony SonataUserBundle rmzamora forked",
+    "keywords": ["user", "sonata", "google authenticator", "rmzamora forked"],
     "homepage": "http://sonata-project.org/bundles/user",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Mell M. Zamora",
+            "email": "me@mellzamora.com",
+            "homepage": "http://mellzamora.com"
+        },    
         {
             "name": "Thomas Rabaix",
             "email": "thomas.rabaix@sonata-project.org",
@@ -22,7 +27,7 @@
         "symfony/form": ">=2.1,<2.3-dev",
         "symfony/security": ">=2.1,<2.3-dev",
         "symfony/console": ">=2.1,<2.3-dev",
-        "sonata-project/admin-bundle": "dev-master",
+        "rmzamora/admin-bundle": "dev-rmzamora-master",
         "friendsofsymfony/user-bundle": "dev-master",
         "sonata-project/doctrine-extensions": "dev-master",
         "sonata-project/easy-extends-bundle": "dev-master",

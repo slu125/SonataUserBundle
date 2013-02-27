@@ -41,6 +41,7 @@
     "target-dir": "Sonata/UserBundle",
     "extra": {
         "branch-alias": {
+            "dev-master": "2.1.x-stable"
             "dev-rmzamora-master": "2.1.x-dev"
         }
     }

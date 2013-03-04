@@ -22,10 +22,10 @@
         }
     ],
     "require": {
-        "symfony/http-foundation": ">=2.2,<2.3-dev",
-        "symfony/form": ">=2.2,<2.3-dev",
-        "symfony/security": ">=2.2,<2.3-dev",
-        "symfony/console": ">=2.2,<2.3-dev",
+        "symfony/http-foundation": ">=2.1,<2.3-dev",
+        "symfony/form": ">=2.1,<2.3-dev",
+        "symfony/security": ">=2.1,<2.3-dev",
+        "symfony/console": ">=2.1,<2.3-dev",
         "sonata-project/admin-bundle": "2.2.*@dev,<2.3-dev",
         "friendsofsymfony/user-bundle": "2.0.*@dev",
         "sonata-project/doctrine-extensions": "1.*",

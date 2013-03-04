@@ -33,7 +33,7 @@
         "sonata-project/google-authenticator": "1.*"
     },
     "suggest": {
-        "sonata-project/doctrine-orm-admin-bundle": "2.2.*@dev"
+        "sonata-project/doctrine-orm-admin-bundle": "2.1.*@dev"
     },
     "autoload": {
         "psr-0": { "Sonata\\UserBundle": "" }
